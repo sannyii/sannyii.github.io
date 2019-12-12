@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
@@ -7,4 +7,3 @@ published: false
 ### 测试一下效果
 mark down 是不是很神奇!
 ![_config.yml]({{ site.baseurl }}/images/test.jpg)
-
