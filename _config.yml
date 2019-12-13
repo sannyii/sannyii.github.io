@@ -18,12 +18,12 @@ avatar: /images/me.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: erxiao.lovelife@gmail.com
   facebook:
   flickr:
   github: sannyii
-  instagram:
-  linkedin:
+  instagram: sannyii 
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -84,8 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
-# Sidebar settings
-sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "to be honest"
-sidebar-avatar: /images/me.JPG      # 
