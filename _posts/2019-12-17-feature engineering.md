@@ -4,10 +4,10 @@ title: Feature Engineering：Exploration and Cleaning
 published: true
 ---
 
-###Background
+### Background
 Kaggle Competiton:Titanic-Machine Learning from Disaster
 
-###what is feature engineering?
+### what is feature engineering?
 
 Exploration into the data and find some clean and beautiful patterns!
 
@@ -19,7 +19,7 @@ How great is these food that you feed into your machine?
 
 You are what you eat!
 
-###how to engineer features?
+### how to engineer features?
 
 which element is not nessary?
 
